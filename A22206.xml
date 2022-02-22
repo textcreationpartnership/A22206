@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the better setling of his Maiesties manufacture of gold and siluer thread within this his realme</title>
+            <title>Proclamations. 1619-10-10</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22206</idno>
+            <idno type="STC">STC 8612</idno>
+            <idno type="STC">ESTC S100983</idno>
+            <idno type="EEBO-CITATION">99836810</idno>
+            <idno type="PROQUEST">99836810</idno>
+            <idno type="VID">1098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1098)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the better setling of his Maiesties manufacture of gold and siluer thread within this his realme</title>
+                  <title>Proclamations. 1619-10-10</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[3] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton, and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno Dom. M.DC.XIX. [1619]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Roystone the tenth day of October, in the seuenteenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goldwork --  Great Britain --  Law and legislation.</term>
+               <term>Silverwork --  Great Britain --  Law and legislation.</term>
+               <term>Gold thread --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:1098:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>depiction of the royal blazon, surmounted by a crown and flanked on either side by the Tudor rose and Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head>A Proclamation for the better ſetling of his Maieſties Manufacture of Gold and Siluer thread within this his Realme.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Art or Myſterie of making Gold and Siluer threed</hi> (<hi>a</hi> com<g ref="char:EOLhyphen"/>moditie of continuall vſe in this Our Kingdome of <hi>England</hi>) hath formerly beene vſed, and made by Strangers in forreine parts only, and from thence tranſported into this Our Realme; but of late hath beene practiſed by ſome of Our louing Subiects, who by their great charge and induſtrie, haue ſo well profited therein, and attained to ſuch perfection in that Arte, that they equall the Strangers, in the ſkilfull making thereof, and are able by the labours of our owne people to make ſuch ſtore, as ſhall be ſufficient to fur<g ref="char:EOLhyphen"/>niſh the expence of this whole Kingdome. And whereas We, eſteeming it a principall part of Our Office, as a King and Soueraigne Prince, to che<g ref="char:EOLhyphen"/>riſh and encourage the Knowledge and Inuention of good and profitable Arts and Myſteries, and to make them frequent amongſt Our owne people, eſpecially ſuch, wherein Our people may em<g ref="char:EOLhyphen"/>ploy their labours comfortably, and profitably, and many thereby may be kept from idleneſſe, hereby to preſerue and increaſe the Honour and wealth of Our State and people. And finding that the exer<g ref="char:EOLhyphen"/>ciſing of this Arte or Myſterie (conſidering the continuall vſe of Bullion to be ſpent in the Manufac<g ref="char:EOLhyphen"/>ture thereof) is a matter of great importance, and therefore fitter for Our own immediate care, then to be truſted into the hands of any priuate perſons, for that the Conſumption, or preſeruation of Bullion wherof Our Coynes (the ſinewes and ſtrength of Our State) are made, is a matter of ſo high onſe<g ref="char:EOLhyphen"/>quence, as it is onely proper for Our ſelfe to take care and account of; Wee haue heretofore to the good liking of the Inuentors thereof, taken the ſaid Manufacture of Gold &amp; Siluer threed into Our owne hands, and ſo purpoſe to retaine, and continue it, to be exerciſed only by Agents for Our ſelues, who ſhall from time to time be accomptable to Vs for the ſame. And whereas for the better per<g ref="char:EOLhyphen"/>fecting of ſo Royall a Worke, by Our Proclamation, Dated the two and twentieth day of March, in the fifteenth yeere of Our Raigne of <hi>England,</hi> Wee did vtterly prohibite the Importation of all for<g ref="char:EOLhyphen"/>raine Gold and ſiluer threed made in any the parts beyond the Seas, and the vſe of any other Gold or Siluer threed, then ſuch as ſhould from time to time be Sealed with a Seale to be to that purpoſe appointed, therby to diſcouer all falſe, counterfeit and prohibited Stuffe, whereby either Our louing Subiects might be abuſed, or Our ſelues deluded, as by the ſame Proclamation appeareth; which Wee will and Command, and Our expreſſe pleaſure is, ſhall in all things be firmely obſerued and kept, according to the purport and true meaning thereof, and of Our Royall intent and pleaſure there<g ref="char:EOLhyphen"/>in expreſſed.</p>
+            <p>Now foraſmuch as Wee find, that notwithſtanding Our Proclamation, many haue aduentu<g ref="char:EOLhyphen"/>red ſecretly and by ſtealth to import Gold and Siluer threed from forraine parts, and many others to make the ſame within this Realme (not being thereunto allowed by Vs, or Our Agents) and to vtter the ſame to diuers of Our louing Subiects, not being Sealed with the Seale to that pur<g ref="char:EOLhyphen"/>poſe appointed, whereby Wee finde that Our owne Agents and workemen imployed about the ſaid Manufacture are diſcouraged, and much falſe and counterfeit Stuffe is vented, to the great deceit of Our Subiects, ſcandall of the worke, and Our owne proper loſſe, and yet the Offenders therein can<g ref="char:EOLhyphen"/>not eaſily be diſcouered, whereby they might be puniſhed according to their demerits: for that the Silkemen and Silke weauers, and others, who buy and vſe the ſaid Gould and Siluer threed, are
+<pb facs="tcp:1098:2"/>vnwilling to diſcouer ſuch Offenders, and (as We haue cauſe to feare) doe rather encourage them in their offence, in contempt of Vs and Our proceedings. To the end therefore, that this Our worke which We haue appropriated to Our ſelfe, may proſper in Our hands, and neither Our Agents be diſ<g ref="char:EOLhyphen"/>couraged, nor the worke diſcountenanced by the making, working, or vttering any falſe, counterfeit, or prohibited Stuffe, and that thoſe whom We haue truſted and imployed therein, may alſo performe their duties iuſtly and faithfully, without iuſt grieuance, or offence to any of Our louing Subiects; We doe hereby ſtraightly charge and Command, That all Silkemen, Silkeweauers, and all and euery perſon and perſons, who now vſe, or hereafter ſhall vſe the Arte, Myſterie, Trade, or Occupa<g ref="char:EOLhyphen"/>tion of making, working, ſelling, or vttering of any Lace, Buttons, or any other thing or things whatſoeuer, in all, or in part wrought of or with Gold or Siluer threed, or of or with Copper Gold, or Siluer threed, ſhall from time to time take and keepe a true, iuſt, and exact accompt in writing, of all the names, profeſſions, and habitations, of all and euery perſon and perſons, of whom they or any of them ſhal from time to time buy or receiue any Gold or Siluer Threed, or Copper Gold or Sil<g ref="char:EOLhyphen"/>uer Threed, or any thing wrought or made in all or in part therewith, with the time and times and ſeuerall quantities when and what they ſo bought or receiued the ſame: Which ſaid Account, they and euery of them ſhall once a moneth deliuer vnto a Regiſter to bee to that purpoſe appointed by ſome of Our Commiſſioners for the ſaid Manufacture, that ſo the offenders againſt Our former, and this preſent Proclamation, may be the better diſcouered, and their offences ſeuerely puniſhed, as be<g ref="char:EOLhyphen"/>ing a high Contempt againſt Vs and Our Prerogatiue Royall: For the due performance whereof, and to preuent the Inconueniences that may enſue, Our will and pleaſure is, and Wee doe hereby ſtraitly charge and command, That all and euery the perſons aforeſaid, ſhall enter into Bond of one hundred or two hundred pounds a piece and not aboue (as ſhalbe thought fitt by Our Commiſ<g ref="char:EOLhyphen"/>ſioners appointed for the ſaid Manufacture now, or that hereafter ſhalbe, or any two of them) to Our Atturney Generall for the time being, in truſt for Vs, with condition to performe all and euery the particulars in the former Clauſe expreſſed and commanded, vpon the paines hereafter limited, which We will ſhall be ſeuerely inflicted on them.</p>
+            <p>And further We will and Command that no Fynor or Fynors of Gold or Siluer, ſhal at any time or times hereafter melt, diſgroſſe, or ſell, or cauſe to be molten, diſgroſſed or ſold any refined Gold or Siluer, to any perſon or perſons whatſoeuer (other then to Our Agent and vndertakers for our ſaid manufacture) vntill he or they ſhall haue firſt entred into Bond to vs of one hundred pounds, or more before our ſaid Commiſſioners, or any two of them to our vſe, to melt none of Our Coines for the making of refined Gold or Siluer, and from time to time, to giue a true accompt in writing of all the Names, Profeſſions, and habitations of euery ſuch perſon and perſons, as ſhall from time to time, buy or haue any refined Gold or Siluer of him or them, and of the true quantity and quan<g ref="char:EOLhyphen"/>tities of all &amp; euery ſuch parcell &amp; parcells, as he or they ſhall from time to time vtter, ſell, or deliuer: For all which ſaid Bonds ſo to be entred into reſpectiuely, We are neuertheleſſe pleaſed, That no fee or allowance ſhalbe required or taken, nor that the ſame Bond ſhalbe ſent or deliuered into Our Ex<g ref="char:EOLhyphen"/>chequer, nor otherwiſe put in Suit, but vpon apparant breach thereof, firſt appearing to Our Com<g ref="char:EOLhyphen"/>miſſioners aforeſaid, or any two of them, or to Our Attourney generall for the time being; and that at the end of euery ſixe moneths the ſame Bond reſpectiuely ſhalbe deliuered vp to the party bound, to be Cancelled, if in the meane time no breach thereof ſhall appeare to haue bin made as aforeſaid, and then a new Bond to be entred into by him or her reſpectiuely to the ſame effect, to continue likewiſe for o<g ref="char:EOLhyphen"/>ther ſixe Moneths, and ſo for euery ſixe Moneths, as long as this or Our former Proclamation ſhall remaine in force, or that Our pleaſure ſhalbe further ſignified to the contrary. Likewiſe Our pleaſure is that if any of Our ſaide louing Subiects ſhall caſually or vnawares, without any wilfull or obſtinate Contempt, fall into the breach of any ſuch bond; that Our Chauncellor of England, or Keeper of Our Great Seale, for the time being, ſhal vpon a Petition to him exhibited, &amp; in a ſumma<g ref="char:EOLhyphen"/>ry Courſe, haue power to order and Moderate the ſame, as he in his wiſedome ſhall thinke fitt. And alſo We will &amp; Command, That no Gold-Drawer or other perſon or perſons, whatſoeuer, ſhal at any time hereafter, during this or Our ſaid former Proclamation, draw, flat, or vſe any refined Gold or Sil<g ref="char:EOLhyphen"/>uer, for the making of Cloth of Gold, or Cloth of Siluer, without the ſpeciall Licence of two of Our ſaid Commiſſioners, vnder their hands in writing, firſt had &amp; obtained; vpon paine of forfeiture of all ſuch Gold or Siluer as ſhalbe wrought, contrary to this Our Royall will and Commandement; and vpon paine of Our high indignation and diſpleaſure, and ſuch other paines and puniſhments as in like Caſes are vſuall.</p>
+            <p>And Our further will and pleaſure is, and hereby Wee doe giue full power and authority vnto Our ſaid Commiſſioners, or any two or more of them, and to all and euery ſuch perſon and perſons, as Our ſaid Commiſſioners or any two or more of them, ſhall by warrant or writing vnder their hands nominate or appoint, from time to time and at all times conuenient, at their pleaſure, in peace<g ref="char:EOLhyphen"/>able maner (taking with them a Conſtable or other fitt officer, and giuing notice to the owner or poſ<g ref="char:EOLhyphen"/>ſeſſor, or his or their ſeruant or ſeruants, or their purpoſe in that behalfe, to the end they may if they
+<pb facs="tcp:1098:3"/>will accompany them) to enter into all, and all manner of Shoppes, Cellers, worke-houſes, ware<g ref="char:EOLhyphen"/>houſes, Storehouſes or other Roomes or places whatſoeuer, by them ſuſpected, within Our ſaid Realme of England or the Dominions thereof, as well in Cities, Tsownes corporate, and places priuiledged, as elſewhere: And likewiſe to enter into any ſhip, bote, or other veſſell whatſoeuer, riding at Ancre, or otherwiſe abiding in any Port, Hauen or Creeke of Our ſaid Realme, and Dominions thereof, for the ſearching and finding out of all ſuch offences, of what nature ſo<g ref="char:EOLhyphen"/>euer, as ſhall bee Committed contrary vnto this, or Our ſayd former Proclamation: And likewiſe to ſeaze and take into their hands vnto Our vſe, all ſuch Gold and ſiluer threed, and Copper Gold and Siluer threed, and Gold and Siluer wyer imported, or that ſhall be imported into this Our Realme wrought or made, or that ſhall be wrought, made, drawne, or flatted within this Realme, other then by Our Agent and Vndertakers, their Deputies and Aſſignes, touching the ſaid Manufacture. And further Our pleaſure is, that whatſoeuer threed wrought, or vnwrought, as aforeſaid, or wyer, ſhall be ſo ſeized to Our vſe as aforeſaid, ſhall foorthwith, vpon the ſeizure thereof be inuentoried in writing, ſubſcribed by all ſuch perſons, as ſhall be preſent at any ſuch ſeizure, and ſhall with all conuenient ſpeed, be brought vnto Our ſaid Commiſſioners, now, and for the time be<g ref="char:EOLhyphen"/>ing, or any two of them, to be diſpoſed of, as we ſhall thinke fit, and direct from time to time. And for the better accompliſhment of Our ſeruice herein, We doe hereby ſtraightly charge and Command all Maiors, Sheriffes, Iuſtices of the Peace, Conſtables, Comptrollers, Searchers, Waiters, and all and euery other Our Officers, or Miniſters and Subiects whatſoeuer, That they and euery of them be from time to time aſſiſting, aiding and helping vnto Our ſaid Commiſſioners, and ſuch as they, or any two of them ſhall authorize in that behalfe, in and by all things in the due Execution and performance of the premiſſes, according to Our true meaning herein declared, as they tender Our pleaſure, and will anſwere the contrary at their vtmoſt perils. And further, Wee will and declare Our Royall pleaſure and Commandement to be, that if any perſon or perſons ſhall withſtand, or refuſe to obey this Our Proclamation, in all or any part thereof, vpon complaint and proofe thereof had and made in that behalfe, before Our Commiſſioners or any two, or more of them, that now be, or hereafter ſhall be for the ſaid Manufacture, or before Our Attorney Generall for the time being, that they take order to puniſh any ſuch perſon ſo offending, as a contemner of Our Royall will and Commandement, by impriſonment or otherwiſe, as ſhall and may ſtand with the Iuſtice of this Our Realme. And We further hereby declare Our intent and pleaſure to be, That if any Agent, worke<g ref="char:EOLhyphen"/>man, or other perſon or perſons whatſoeuer, imployed by Vs, or Our ſaid Commiſſioners, now or at any time hereafter, in, or about the ſaid Manufacture, or any thing thereunto belonging, or in, or about any ſearch to be made as aforeſaid, ſhall in any thing falſifie the truſt by Vs, or Our ſaid Com<g ref="char:EOLhyphen"/>miſſioners committed to him, or them, to the iuſt offence, or grieuance of any of Our louing Subiects, that Our eares ſhall be euer open to any iuſt complaint to be made thereof: And that euery perſon who ſhall wilfully or corruptly offend by colour of any authoritie, or imployment giuen, or deriued from Vs, any way touching or concerning the ſaid Worke, ſhall be ſeuerely puniſhed for the ſame, ac<g ref="char:EOLhyphen"/>cording to the quality of his or their offence.</p>
+            <closer>
+               <dateline>Giuen at Royſtone <date>the tenth day of October, in the ſeuenteenth yeere</date> of Our Reigne of England, France, and Ireland, and of Scotland the three and fiftieth.</dateline>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. ANNO DOM. M.DC.XIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
